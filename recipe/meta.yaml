@@ -1,6 +1,6 @@
-{% set python_min = '3.10' %}
+{% set python_min = "3.10" %}
 {% set name = "bokeh_sampledata" %}
-{% set version = "2024.2" %}
+{% set version = "2025.0" %}
 
 package:
   name: {{ name|lower }}
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/bokeh_sampledata-{{ version }}.tar.gz
-  sha256: e63daa96e79d563ec8b84f20672ffe94f905b21455fab8d83ee334e46da33624
+  sha256: 6b874af5b878e70f16133695ac07e15de38642fa9fadfdf723f7d42333967af4
 
 build:
   noarch: python
