@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-bokeh_sampledata-green.svg)](https://anaconda.org/conda-forge/bokeh_sampledata) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/bokeh_sampledata.svg)](https://anaconda.org/conda-forge/bokeh_sampledata) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/bokeh_sampledata.svg)](https://anaconda.org/conda-forge/bokeh_sampledata) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/bokeh_sampledata.svg)](https://anaconda.org/conda-forge/bokeh_sampledata) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-bokeh__sampledata-green.svg)](https://anaconda.org/conda-forge/bokeh_sampledata) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/bokeh_sampledata.svg)](https://anaconda.org/conda-forge/bokeh_sampledata) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/bokeh_sampledata.svg)](https://anaconda.org/conda-forge/bokeh_sampledata) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/bokeh_sampledata.svg)](https://anaconda.org/conda-forge/bokeh_sampledata) |
 
 Installing bokeh_sampledata
 ===========================
