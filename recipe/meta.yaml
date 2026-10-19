@@ -4,7 +4,7 @@
 
 package:
   name: {{ name|lower }}
-  version: {{ version }}
+  version: "{{ version }}"
 
 source:
   url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/bokeh_sampledata-{{ version }}.tar.gz
@@ -24,7 +24,10 @@ requirements:
   run:
     - python >={{ python_min }}
     - icalendar
-    - pandas >=1.2
+    - pandas >=2.2.3
+    - numpy >=1.26.4
+    - shapely >=2.0
+    - tzdata
 
 test:
   imports:
